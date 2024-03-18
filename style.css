@@ -1,1 +1,17 @@
 
+header h1 {
+    color: rgb(37, 37, 239);
+}
+
+header p {
+    color: rgb(238, 35, 35);
+    font-size: 35px;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.car {
+    border: 20px solid rgb(63, 212, 63);
+    width: 700px;
+    height: 900px;
+    padding: 100px;
+}
